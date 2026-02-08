@@ -1,3 +1,5 @@
 Product Name: Wireless Mouse
+Price: ₹999
+Discount: 10%
 Category: Electronics
 Brand: LogiTech
